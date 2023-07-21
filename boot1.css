@@ -1,0 +1,225 @@
+.bali{
+    width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+    position: relative;
+}
+.bali-content{
+    width: 500px;
+    color: white;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.bali-image{
+    width: 100%;
+    border-radius: 14px;
+}
+.exp-button{
+    border: none;
+    padding: 15px 25px;
+    border-radius: 30px;
+    background-color: white;
+    font-size: 15px;
+}
+
+.item{
+    width:400px;
+    height: 580px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    padding: 10px;
+    margin: 20px auto;
+    box-shadow: 7px 7px lightgray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.foodimg{
+    width: 100%;
+    border-radius: 14px;
+}
+.food{
+    position: relative;
+}
+.promo{
+    position: absolute;
+    top: 0;
+    margin: 10px;
+    background-color: gray;
+    color: whitesmoke;
+    padding: 0 7px;
+    font-size: 14px ;
+    border-radius: 3px;
+}
+.discount{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin:20px 0;
+    background-color:blue;
+    color: white;
+    padding: 0 10px;
+    font-size: 17px ;
+}
+.time{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 15px;
+    background-color:azure;
+    color: black;
+    padding: 0 7px;
+    font-size: 14px ;
+    border-radius: 3px;
+    font-weight: 500;
+}
+.safety{
+    width: 70px;
+    position: relative;
+    top: 80px;
+    
+}
+.bottom{
+    position: relative;
+    padding: 40px;
+    left: 40px;
+    box-sizing: border-box;
+}
+.border{
+    border-bottom: 1px solid lightgray;
+}
+.foot{
+    position: relative;
+    bottom: 70px;
+    color: grey;
+}
+
+.zomato {
+    width: 800px;
+    margin: 100px auto;
+}
+
+.photo {
+    width: 100%;
+    height: 250px;
+}
+
+.navi {
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    background-color: white;
+    position: relative;
+    bottom: 230px;
+    left: 140px;
+
+}
+
+.location {
+    width: 15px;
+    position: relative;
+    top: 8px;
+    left: 10px;
+}
+
+.lucknow {
+    color: gray;
+    position: relative;
+    bottom: 23px;
+    left: 40px;
+    font-size: 11px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.arrow {
+    width: 10px;
+    position: relative;
+    left: 150px;
+    bottom: 49px;
+}
+
+.line {
+    border-left: 1px solid lightgray;
+    height: 20px;
+    position: relative;
+    left: 180px;
+    bottom: 82px;
+}
+
+.search {
+    width: 15px;
+    position: relative;
+    left: 190px;
+    bottom: 118px;
+}
+
+.title {
+    font-size: 35px;
+    position: relative;
+    bottom: 215px;
+    letter-spacing: 1px;
+    left: 340px;
+    color: white;
+    font-family:'Times New Roman', Times, serif
+}
+
+.details {
+    color: gray;
+    font-size: 10px;
+    font-weight: 100;
+    position: relative;
+    left: 230px;
+    bottom: 146px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.discover {
+    position: relative;
+    bottom: 230px;
+    color: white;
+    font-size: large;
+    left: 210px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.profile{
+    width: 500px;
+    margin: 60px auto;
+    position: relative;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border: 1px solid lightgrey;
+    box-shadow: 0px 7px 7px 7px lightgrey;
+}
+.bg-img{
+    width: 500px;
+    height: 100px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.user{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 130px;
+    margin-left: 200px;
+    border: 2px solid white;
+}
+.context{
+    width: 400px;
+    text-align: center;
+    margin-top: 70px;
+    padding-left: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.para{
+    font-size: larger;
+    color: grey;
+}
